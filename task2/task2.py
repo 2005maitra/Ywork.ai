@@ -16,4 +16,4 @@ def candies(rating):
     return sum(candies)
 
 
-print(candies([0, 0, 0]))
+print(candies([0, 0, 0])) 
